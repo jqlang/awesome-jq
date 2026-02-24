@@ -173,7 +173,7 @@ _Using jq from other languages_.
 * [jq-go](https://github.com/threatgrid/jq-go) &ndash; Golang cgo bindings for **libjq** ([jqpipe-go](https://github.com/threatgrid/jqpipe-go) is a CLI wrapper from the same people).
 * [libjq-go](https://github.com/flant/libjq-go) &ndash; Golang cgo bindings for **libjq**. This one works with recent versions of jq: 1.5, 1.6+.
 * [node-jq](https://github.com/sanack/node-jq) &ndash; A jq wrapper for Node.js.
-* [ruby-jq](https://github.com/winebarrel/ruby-jq) &ndash; A jq wrapper for Ruby.
+* [jq-ruby](https://github.com/persona-id/jq-ruby) &ndash; A jq wrapper for Ruby.
 * [pyjq](https://github.com/doloopwhile/pyjq) &ndash; A jq wrapper for Python.
 * [jq.py](https://github.com/mwilliamson/jq.py) &ndash; Another jq wrapper for Python.
 * [php-ext-jq](https://github.com/kjdev/php-ext-jq) &ndash; PHP extension for jq.
