@@ -65,7 +65,7 @@ _jq-based JSON visualizers and explorers_.
 
 ### Web
 
-* [jq for humans](https://jqforhumans.com/) &ndash; A jq builder that uses AI to generate, edit, and validate expressions against sample JSON.
+* [jq for humans](https://jqforhumans.com/) &ndash; An AI-powered jq builder for generating, editing, and testing jq expressions against sample JSON.
 * [query-json playground](https://query-json.netlify.app) &ndash; Web playground that uses `query-json` compiled to JavaScript.
 * jiq-web ([github](https://github.com/fiatjaf/jiq-web)) &ndash; `jiq`, but in a web page, uses `jq-web`.
 * [jq play](https://jqplay.org/) ([github](https://github.com/jingweno/jqplay)) &ndash; A playground for jq with sharing capabilities.
