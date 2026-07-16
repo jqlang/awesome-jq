@@ -62,6 +62,7 @@ _jq-based JSON visualizers and explorers_.
 * [jnv](https://github.com/ynqa/jnv) &ndash; interactive JSON filter using jq with navigation and autocompletion.
 * [jqunit](https://github.com/mrwilson/jqunit) &ndash; A test framework for JQ, written in Rust, on top of libjq.
 * [play](https://github.com/paololazzari/play) &ndash; A TUI playground to experiment with your favorite programs, such as grep, sed, awk, jq and yq.
+* [jqc](https://github.com/EdelmarSchneider/jq-coder-cli) &ndash; Translate natural-language requests into executable jq filters with a local 0.6B model &mdash; 100% offline, one binary.
 
 ### Web
 
