@@ -158,7 +158,8 @@ _Incrementing jq capabilities_.
 * [jq-jsonpointer](https://github.com/nichtich/jq-jsonpointer) &ndash; jq module implementing JSON Pointer (RFC 6901)
 * [tree-sitter-jq](https://github.com/nverno/tree-sitter-jq) &ndash; Tree sitter grammar implementation for Jq language
 * [json5.jq](https://github.com/wader/json5.jq) JSON5 implementation for jq
-* [tar.jq](https://github.com/wader/tar.jq) tar archive creator for jq 
+* [tar.jq](https://github.com/wader/tar.jq) tar archive creator for jq
+* [schema.jq](https://github.com/yne/schema.jq) json schema validator for jq
 
 ------------------------------------------------------------------------
 
