@@ -79,6 +79,7 @@ _jq-based JSON visualizers and explorers_.
 
 * [jqi](https://nire0510.github.io/jqi/) ([github](https://github.com/nire0510/jqi)) &ndash; The almighty jq processor wrapped in a graphical UI, for Mac OSX.
 * [jqview](https://github.com/fiatjaf/jqview) &ndash; A jq JSON explorer with a minimalist native GUI.
+* [jsonquery_gui](https://github.com/nujufas/jsonquery_gui) &ndash; A native desktop GUI (Rust/egui) for browsing and querying large JSON files, with jq (via jaq), JSON Pointer, JSONPath, and JMESPath. Streamed/cancellable queries, exact big-integer round-tripping, NDJSON support. Linux and Windows builds.
 
 ### Extensions
 
