@@ -63,6 +63,7 @@ _jq-based JSON visualizers and explorers_.
 * [jqunit](https://github.com/mrwilson/jqunit) &ndash; A test framework for JQ, written in Rust, on top of libjq.
 * [play](https://github.com/paololazzari/play) &ndash; A TUI playground to experiment with your favorite programs, such as grep, sed, awk, jq and yq.
 * [jqfmt](https://github.com/noperator/jqfmt) &ndash; A code beautifier for jq.
+* [jqweb](https://github.com/zafnz/jqweb) &ndash; Pipe JSON on the cli into a locally running interactive webpage.
 
 ### Web
 
@@ -74,6 +75,7 @@ _jq-based JSON visualizers and explorers_.
 * [jqaas](https://github.com/captn3m0/jqaas) &ndash; jq as a service, an open HTTP endpoint that executes jq queries.
 * [jqp](https://github.com/sighrobot/jqp) &ndash; A free serverless proxy for filtering JSON and CSV data using jq.
 * [jqterm](https://jqterm.com) ([github](https://github.com/remy/jqterm)) &ndash; Online playground - "jq as a service"
+* [jqweb](https://github.com/zafnz/jqweb) &ndash; Pipe JSON on the cli into a locally running interactive webpage..
 
 ### Desktop
 
