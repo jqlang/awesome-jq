@@ -74,6 +74,7 @@ _jq-based JSON visualizers and explorers_.
 * [jqaas](https://github.com/captn3m0/jqaas) &ndash; jq as a service, an open HTTP endpoint that executes jq queries.
 * [jqp](https://github.com/sighrobot/jqp) &ndash; A free serverless proxy for filtering JSON and CSV data using jq.
 * [jqterm](https://jqterm.com) ([github](https://github.com/remy/jqterm)) &ndash; Online playground - "jq as a service"
+* [CodeUtil jq playground](https://www.codeutil.io/tools/jq-playground) &ndash; A jq playground running the real jq 1.8 compiled to WebAssembly; filters run locally, no data is sent anywhere.
 
 ### Desktop
 
