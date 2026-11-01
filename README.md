@@ -70,6 +70,7 @@ _jq-based JSON visualizers and explorers_.
 * jiq-web ([github](https://github.com/fiatjaf/jiq-web)) &ndash; `jiq`, but in a web page, uses `jq-web`.
 * [jq play](https://jqplay.org/) ([github](https://github.com/jingweno/jqplay)) &ndash; A playground for jq with sharing capabilities.
 * [jq kung fu](https://www.jqkungfu.com/) &ndash; A jq playground in WebAssembly powered by the original jq compiled with _emscripten_.
+* [JSON Formatter App](https://jsonformatter.app/tools/jq-online) &ndash; A jq playground powered by real jq 1.8 compiled to WebAssembly (WASM), bundled with a client-side JSON toolkit: validator with exact error locations, JSONPath, diff, converters.
 * jq-finder ([github](https://github.com/fiatjaf/jq-finder)) &ndash; A multipanel, Finder-like, JSON explorer with jq filters instead of paths, uses `jq-web`.
 * [jqaas](https://github.com/captn3m0/jqaas) &ndash; jq as a service, an open HTTP endpoint that executes jq queries.
 * [jqp](https://github.com/sighrobot/jqp) &ndash; A free serverless proxy for filtering JSON and CSV data using jq.
