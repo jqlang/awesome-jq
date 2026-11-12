@@ -63,6 +63,7 @@ _jq-based JSON visualizers and explorers_.
 * [jqunit](https://github.com/mrwilson/jqunit) &ndash; A test framework for JQ, written in Rust, on top of libjq.
 * [play](https://github.com/paololazzari/play) &ndash; A TUI playground to experiment with your favorite programs, such as grep, sed, awk, jq and yq.
 * [jqfmt](https://github.com/noperator/jqfmt) &ndash; A code beautifier for jq.
+* [lazyjq](https://github.com/davidnussio/lazyjq) &ndash; A lazygit-style TUI to explore JSON with jq: path, value and function completion with inline jq docs, query history. Fork of [jnv](https://github.com/ynqa/jnv).
 
 ### Web
 
